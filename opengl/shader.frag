@@ -1,4 +1,3 @@
-// Fragment Shader Básico
 precision mediump float;
 
 void main(void) {

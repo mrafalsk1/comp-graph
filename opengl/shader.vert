@@ -1,4 +1,3 @@
-// Vertex Shader Básico
 attribute vec3 aVertexPosition;
 
 void main(void) {
